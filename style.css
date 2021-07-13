@@ -1,0 +1,12 @@
+body{
+    background: black;
+}
+img{
+    display: inline-block;
+    margin-top: 20px;
+    border-radius: 4px;
+    transition: all 500ms;
+}
+img:hover{
+    transform: scale(1.11);
+}
