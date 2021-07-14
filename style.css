@@ -8,5 +8,7 @@ img{
     transition: all 500ms;
 }
 img:hover{
-    transform: scale(1.11);
+    transform: scale(.85) rotate(-10deg);
+
+
 }
