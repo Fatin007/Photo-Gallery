@@ -4,15 +4,19 @@ body{
 h1{
     margin: 20px;
     font-family: sans-serif;
+    font-weight: 700;
+    letter-spacing: 0.2ch;
 }
 img{
     display: inline-block;
     margin-top: 20px;
+    margin-right: 5px;
+    margin-left: 5px;
     border-radius: 3px;
-    transition: all 500ms;
+    transition: all 400ms;
 }
 img:hover{
-    transform: scale(.85) rotate(-10deg);
+    transform: scale(1.11);
 }
 footer{
     text-decoration: none;
