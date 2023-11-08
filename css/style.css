@@ -1,14 +1,23 @@
 body{
     background: black;
 }
+h1{
+    margin: 20px;
+    font-family: sans-serif;
+}
 img{
     display: inline-block;
     margin-top: 20px;
-    border-radius: 4px;
+    border-radius: 3px;
     transition: all 500ms;
 }
 img:hover{
     transform: scale(.85) rotate(-10deg);
-
-
+}
+footer{
+    text-decoration: none;
+    padding: 40px;
+}
+a{
+    text-decoration: none;
 }
